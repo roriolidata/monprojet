@@ -9,4 +9,4 @@ c'est reparti
 On simule le travail d'un collègue qui a commit + push sur not projeeeeeeet (comme Nico simule sa DZéité)
 C'est trop bien
 
-J'écris ce texte depuis Posit
+J'écris ce texte 
